@@ -1,0 +1,565 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+/* section-1 starts */
+.div1{
+    background-image: url(./f1.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 650px;
+}
+#sec1 nav{
+    display: flex;
+    justify-content: center;
+    background-color: rgba(216, 208, 208, 0.712);
+    
+  
+}
+#sec1 nav h1{
+    font-size: 180%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-right: 4%;
+    font-style: italic;
+}
+#sec1 nav h1 span{
+    color: rgb(0, 191, 255);
+}
+#sec1 nav a{
+    font-size: 120%;
+    margin: 2% 1%;
+    text-decoration: none;
+    color: rgb(31, 31, 31);
+}
+#sec1 nav h3{
+    color: rgb(0, 189, 252);
+    border: 3px solid rgb(16, 189, 241);
+    margin: 1.8% 6%;
+    padding: 0.3% 1.8%;
+    font-size: 100%;
+}
+#sec1 nav h3:hover{
+    cursor: pointer;
+    color: rgb(59, 104, 104);
+    border-color: rgb(66, 117, 100);
+}
+#sec1 nav a:hover{
+    border-bottom: 3px solid rgb(27, 190, 245);
+}
+.class1{
+    margin: 12% auto;
+    border: 2px solid rgb(233, 230, 230);
+    width: 60%;
+    height: 240px;
+    padding: 0% 2%;
+}
+.class1 h2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    letter-spacing: 5px;
+
+}
+.class1 h3{
+   
+    font-size: 35px;
+    font-family: cursive;
+    font-style: italic;
+    color: rgb(121, 207, 247);
+    position: relative;
+    bottom: 65px;
+}
+.class1 p{
+    width: 30%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    position: relative;
+    bottom: 80px;
+}
+.class1 button{
+    padding: 0.6% 3%;
+    margin: 1% 0%;
+    background-color: rgb(28, 158, 158);
+    color: white;
+    border: none;
+    position: relative;
+    bottom: 80px;
+    letter-spacing: 2px;
+}
+.class1 button:hover{
+    cursor: pointer;
+    color: rgb(212, 212, 212);
+}
+/* section-1 ends */
+/* section-2 starts */
+#sec2{
+    background-color: rgba(199, 190, 190, 0.993);
+    height: 450px;
+    display: flex; 
+    flex-direction: row;
+}
+.div2{
+    width: 28%;
+    margin-left: 20%;
+    padding-top: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.div2 button{
+    padding: 2% 4%;
+    color: white;
+    background-color: rgba(26, 26, 150, 0.856);
+    border: none;
+}
+.div2 button:hover{
+    cursor: pointer;
+    color: rgba(252, 128, 159, 0.863);
+}
+.div3{
+    margin-left: 5%;
+    position: relative;
+    bottom: 50px;
+}
+.img1{
+    height: 220px;
+    width: 35%;
+    position: relative;
+    right: 60px;
+    bottom: 165px;
+}
+.img2{
+    height: 356px;
+}
+.div4{
+    display: flex;
+}
+.div4 img{
+    height: 300px;
+    width: 300px; 
+}
+.div5{
+    width: 17.8%;
+    text-align: center;
+    padding: 0% 1%;
+    }
+    .hd{
+        color: rgba(0, 197, 197, 0.877);
+    }
+    .p1{
+        font-family:Verdana, Geneva, Tahoma, sans-serif ;
+        font-style: bold;
+    }
+    /* section-2 ends */
+
+    /* section-3 strts */
+
+    #sec3 div{
+        justify-content: center;
+    }
+    .div6{
+        display: flex;
+    }
+    .div6 img{
+        width: 20%;
+    }
+    .our{
+        font-size: 35px;
+        text-align: center;
+        font-family:"baloo 2",cursive ;
+        padding: 3% 1%;
+        letter-spacing: 3px;
+    }
+    .hd{
+        margin-left: 5%;
+    }
+    .p1{
+        padding-left: 5%;
+    }
+    /* section-3 ends */
+
+    /* section-4 strts */
+
+
+    #sec4{
+        background-image: url(./images/k2\ \(1\).jpg);
+        width: 100%;
+    }
+    #sec4 div{
+        margin: 4% 20%;
+        padding: 8% 0%;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    #sec4 div h6{
+        color: rgba(1, 137, 255, 0.836);
+        font-size: 14px;
+    }
+    #sec4 input{
+        padding: 0.8% 5%;
+        border: none;
+    }
+    #sec4 button{
+        padding:0.7% 6% ;
+        background-color: rgb(47, 107, 163);
+        color: white;
+        border: none;
+    }
+    #sec4 button:hover{
+        cursor: pointer;
+        color: bisque;
+    }
+    /* section-4 ends */
+
+
+    /* section-5 starts */
+
+    #sec5{
+        background-color: rgb(215, 227, 231);
+        margin-top: -4%;
+    }
+    #sec5 h4{
+        text-align: center;
+        padding-top: 6%;
+    }
+    .how{
+        text-align: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        padding-bottom: 2%;
+    }
+    .div7{
+        display: flex;
+        width: 90%;
+        margin: 0% auto;
+    }
+    .div7 div{
+        padding-bottom: 4%;
+        margin: 0% 3%;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+    }
+    .div7 h3{
+        color: rgb(29, 106, 250);
+        text-align: center;
+        border: 2px solid rgb(29, 106, 250);
+        border-radius: 50%;
+        width: 10%;
+        margin: 0% auto;
+
+    }
+    .div7 img{
+        margin: 10% auto;
+        height: 30%;
+        width: 40%;
+        border-radius: 50%;
+    }
+    .div7 h2{
+        font-size: 20px;
+    }
+   
+    .div8{
+        text-align: center;
+        padding-bottom: 2%;
+        
+    }
+    .div8 h3{
+        font-size: 25px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+    /* section-5 ends */
+
+    /* section-6 starts */
+
+    #sec6{
+        background-color: rgb(215, 227, 231);
+        padding-bottom: 20px;
+    }
+    .star{
+        display: flex;
+        width: 80%;
+        margin: 0% 10%;
+    }
+    .star div{
+        margin: 0% 1%;
+    }
+    .star h2{
+        padding-top: 45%;
+        color: blueviolet;
+        padding: 1% 3%;
+    }
+    .star p{
+        color: rgb(0, 19, 2);
+        font-size: 20px;
+        padding: 30% 3%; 
+    }
+    .star h4{
+        background-color: rgba(92, 92, 92, 0.568);
+        color: brown;
+        position: relative;
+        top: 6%;
+        
+    }
+    .star h4 span{
+        color: rgb(159, 236, 189);
+        padding-left: 45%;
+        font-size: 25px;
+    }
+    .star i{
+        color: rgba(253, 46, 46, 0.281);
+        padding: 3% 2%;
+    }
+    .dd1{
+        background-image:url(./images/mount2.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .dd2{
+        background-image: url(./images/mount1.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .dd3{
+        background-image: url(./images/k2\ \(1\).jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .dd4{
+        background-image: url(./images/k2.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .dd5{
+        background-image: url(./images/K2--.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    /* section-6 ends */
+/* section-7 starts  */
+.sec7{
+    background-image: url(./copy.jpg);
+    background-size: cover;
+    height: 500px;
+    
+}
+    #part7 h2{
+        text-align: center;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        letter-spacing: 4px;
+    }
+    #part7 h4{
+        text-align: center;
+        padding-top: 10%;
+    }
+    .im1{
+        display: flex;
+        margin: 0% 30%;
+    }
+    .im2{
+        display: flex;
+        margin: 0% 30%;
+    }
+    .im1 img{
+        margin: 1% 1%;
+    }
+    .im2 img{
+        margin: 1% 1%;
+    }
+
+
+/* jannng starts*/
+
+
+.diva{
+  display: flex;
+  margin-left: 250px;
+}
+.divb img{
+    display: flex;
+    width: 250px;
+height: 200px;
+    margin: 2%;
+}
+.divc img{
+    display: flex;
+    width: 300px;
+    
+    margin: 2%;
+    position: relative;
+    left: 2%;
+}
+.divd img{
+    display: flex;
+    width: 300px;
+    height: 200px;
+    margin: 2%;
+    position: relative;
+    left: 4%;
+    
+}
+.i1{
+    height: 150px;
+}
+.i2{
+    height: 250px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* jaang ends */
+.diw {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+.diw p{
+    font-size: 20px;
+    letter-spacing: 3px;
+    color: blue;
+    margin-left: 50px;
+}
+
+.client{
+         text-align: center;
+    }
+    #sec8 h4{
+        text-align: center;
+    }
+    #sec8 h2{
+        text-align: center;
+    }
+    .divv{
+        display: flex;
+        padding-left: 150px;
+    }
+    .divv img{
+        width: 70px;
+        border-radius: 50%;
+    }
+    .divv div{
+        width: 35%;
+        margin-left: 10%;
+        margin-bottom: 40px;
+    }
+
+/* form starts */
+
+.form{
+    display: flex;
+    flex-flow: column;
+    width: 20%;
+    text-align: center;
+    margin-left: 480px;
+     padding: 30px;
+    color: white;
+     font-family: 'ballo 2',cursive;
+     opacity: none;
+     background-color: rgba(59, 59, 59, 0.911);
+    }
+.form h1{
+    letter-spacing: 3px;
+
+}
+.form input{
+    padding: 10px 22px;
+    margin-top: 15px;
+    font-family: 'ballo 2',cursive;
+    letter-spacing: 2px;
+}
+
+.image{
+   
+    height: 600px;
+    padding-bottom: 120px  ;
+   opacity: 0.8;
+}
+
+
+.login{
+    background-color: rgb(8, 114, 252);
+    color: white;
+    font-family: 'ballo 2',cursive;
+    letter-spacing: 3px;
+    padding: 10px 22px;
+    font-size: 20px;
+}
+
+
+
+
+/* Responsive */
+
+@media(max-width:700px){
+.navi{
+    display: flex;
+    flex-direction: column;
+}
+.img1{
+    display: none;
+}
+.div4{
+    display: flex;
+    flex-direction: column;
+}
+.div6{
+    display: flex;
+    flex-direction: column;
+
+}
+.div7{
+    display: flex;
+    flex-direction: column;
+}
+.star{
+    display: flex;
+    flex-direction: column;
+}
+.diva{
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    margin: 0% auto;
+}
+.diw{
+    display: flex;
+    flex-direction: column;
+    margin: 0%auto;
+}
+.divv{
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    margin: 0%auto;
+}
+.form{
+    /* display: flex; */
+ /* justify-content: center; */
+ margin: 0% auto;
+ width: 60%;
+}
+}
